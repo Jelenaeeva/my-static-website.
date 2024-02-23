@@ -2,7 +2,7 @@
 
 *This is my first basic static website* 😃
 
-##This could be some cool second title
+## This could be some cool second title
 
 This is List of feelings this first attempt caused:
 
